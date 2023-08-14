@@ -19,7 +19,7 @@ Sistema que consiste realizar consulta, cadastro, alteração e deletar cliente,
   **Instalação**
   
   Realizar o clone ou download do código que se encontra na branch master e importar como projeto maven na IDE de sua escolha.
-  Salvar o arquivo RESTAURANTE.FDB em um diretório de sua escolha e atualizar o path no arquivo application.properties.
+  Mover o arquivo RESTAURANTE.FDB que está na branch master, após o clone ou download, em um diretório de sua escolha e atualizar o path no arquivo application.properties.
   OBS: Usuário e senha de acesso a database, consta no arquivo application.properties.
 
   **Execução**
