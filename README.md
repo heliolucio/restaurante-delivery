@@ -15,6 +15,7 @@ Sistema que consiste realizar consulta, cadastro, alteração e deletar cliente,
   - Utilizado o JDK 1.8.0_202.
   - Anexado o arquivo RESTAURANTE.FDB, contendo as tabelas utlizadas.
   - Utilizado postman para realização dos testes das API's.
+  - 
  
   **Instalação**
   
@@ -23,6 +24,7 @@ Sistema que consiste realizar consulta, cadastro, alteração e deletar cliente,
   Mover o arquivo RESTAURANTE.FDB que está na branch master, após o clone ou download, em um diretório de sua escolha e atualizar o path no arquivo application.properties.
   
   OBS: Usuário e senha de acesso a database, consta no arquivo application.properties.
+  
 
   **Execução**
 
